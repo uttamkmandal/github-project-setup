@@ -138,5 +138,8 @@ if \_\_name\_\_ == "\_\_main\_\_":
 
 &nbsp;   main()
 
+## 👨‍💻 Author
+Uttam Kumar Mandal  
+Data Analyst | ML & AI
 
 
