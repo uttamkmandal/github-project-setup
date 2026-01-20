@@ -3,3 +3,6 @@ __pycache__/
 *.log
 .vscode/
 .ipynb_checkpoints/
+# Virtual environments
+venv/
+.venv/
